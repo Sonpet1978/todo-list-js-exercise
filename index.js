@@ -7,6 +7,7 @@ const taskComplete = [];
 function newTask(title) {
   taskTitles.push(title);
   taskComplete.push(false);
+  
 }
 
 // Mark a task as complete by setting the task's status in the `taskComplete` array to `true`
