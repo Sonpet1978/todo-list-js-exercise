@@ -2,7 +2,7 @@
 const taskTitles = [];
 const taskComplete = [];
 //sonya
-
+//222
 // Create a new task by adding to the arrays
 // A new task will be created as incomplete
 function newTask(title) {
